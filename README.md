@@ -57,12 +57,60 @@
 
 ![2024-07-31_15h25_40](https://github.com/user-attachments/assets/12d9499b-e270-4d6e-bb3d-9fe96949f6c8)
 
-## Build and Test
+
+
+
+# Build and Test
+
+![2024-07-31_15h26_57](https://github.com/user-attachments/assets/3a6a1eeb-fb67-44c2-a1c2-f55490f4770c)
+
+
+# Step 4: Create a Custom Slot for Account types
+
+1. Choose Add slot type.
+2. From the dropdown, choose Add blank slot type.
+3. Enter for the Slot type name.
+4. Choose Add.
+
+
+![2024-07-31_16h37_24](https://github.com/user-attachments/assets/4ba70134-51a3-477e-bfe6-4f45b7327b0a)
+
+
+![2024-07-31_16h37_42](https://github.com/user-attachments/assets/ce77eef5-11b1-41f0-9087-25fceb3dd056)
+
+![2024-07-31_16h40_53](https://github.com/user-attachments/assets/b887c246-cd50-4af1-9e18-82b42f338d24)
 
 
 
 
 
+1. In the Values field, enter 
+
+2. Select Add value, or just press Enter on your keyboard.
+
+3. Do the same for 
+Enter , and add a few synonyms in the second field.
+4. Press on your keyboard after every time you add in a new one:
+
+5. Choose Add value to finish up your work for Credit.
 
 
+![image](https://github.com/user-attachments/assets/d782a5a2-62bd-4f1a-8a95-876615f4f7e9)
 
+
+![2024-07-31_16h40_53](https://github.com/user-attachments/assets/9607e482-22ef-42d8-aa17-aef7887720b7)
+
+
+# Step 5 : Create the CheckBalance intent
+
+1. In your left hand navigation panel, head back to Intents.
+2. Choose Add intent, then Add empty intent.
+
+
+![2024-07-31_16h44_20](https://github.com/user-attachments/assets/b5855128-b79c-4f18-bad3-fd6012c14617)
+
+
+![2024-07-31_16h56_58](https://github.com/user-attachments/assets/d75510ff-6600-4395-a7e1-5b296f2ca7f2)
+
+
+![image](https://github.com/user-attachments/assets/d6d5e39e-a6a6-4dd6-a811-b25a7fbe5ec0)
