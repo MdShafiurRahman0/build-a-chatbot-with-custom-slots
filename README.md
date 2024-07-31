@@ -5,7 +5,9 @@
 
 
 ✅ A new Lex chatbot called BankerBot.
+
 ✅ WelcomeIntent set up.
+
 ✅ FallbackIntent customised, i.e. your BankerBot says a customised error message if it doesn't understand the user's input.
 
 ![image](https://github.com/user-attachments/assets/fd88c4c8-71dc-4c58-8f25-699f0179c1c3)
@@ -113,4 +115,13 @@ Enter , and add a few synonyms in the second field.
 ![2024-07-31_16h56_58](https://github.com/user-attachments/assets/d75510ff-6600-4395-a7e1-5b296f2ca7f2)
 
 
-![image](https://github.com/user-attachments/assets/d6d5e39e-a6a6-4dd6-a811-b25a7fbe5ec0)
+![2024-07-31_17h00_02](https://github.com/user-attachments/assets/7af7157b-ffce-4803-a6c1-a103196f5dc4)
+
+![2024-07-31_17h00_20](https://github.com/user-attachments/assets/9c95a720-16e5-43b8-b886-b2ab00b4dec8)
+
+
+# Step 6: Build & Test
+
+![2024-07-31_19h25_57](https://github.com/user-attachments/assets/c3bf0c69-b779-4a1e-a07e-44f47f1084d3)
+
+
